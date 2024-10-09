@@ -1,0 +1,166 @@
+{
+  "boissons": [
+    {
+      "nom": "Coca-Cola",
+      "volume": 500,
+      "prix": 2
+    },
+    {
+      "nom": "Pepsi",
+      "volume": 500,
+      "prix": 2
+    },
+    {
+      "nom": "Sprite",
+      "volume": 500,
+      "prix": 2
+    },
+    {
+      "nom": "Fanta",
+      "volume": 500,
+      "prix": 2
+    },
+    {
+      "nom": "Eau",
+      "volume": 500,
+      "prix": 1
+    },
+    {
+      "nom": "Eau p\u00e9tillante",
+      "volume": 500,
+      "prix": 1.5
+    },
+    {
+      "nom": "Jus d'orange",
+      "volume": 300,
+      "prix": 2.5
+    },
+    {
+      "nom": "Jus de pomme",
+      "volume": 300,
+      "prix": 2.5
+    },
+    {
+      "nom": "Limonade",
+      "volume": 500,
+      "prix": 2
+    },
+    {
+      "nom": "Th\u00e9 glac\u00e9",
+      "volume": 500,
+      "prix": 2
+    }
+  ],
+  "pizzas": [
+    {
+      "nom": "Margherita",
+      "taille": "M",
+      "prix": 8.5,
+      "garnitures": [
+        "tomate",
+        "mozzarella",
+        "basilic"
+      ]
+    },
+    {
+      "nom": "Pepperoni",
+      "taille": "M",
+      "prix": 9.0,
+      "garnitures": [
+        "tomate",
+        "mozzarella",
+        "pepperoni"
+      ]
+    },
+    {
+      "nom": "Quatre Fromages",
+      "taille": "M",
+      "prix": 10.0,
+      "garnitures": [
+        "mozzarella",
+        "parmesan",
+        "gorgonzola",
+        "ricotta"
+      ]
+    },
+    {
+      "nom": "Hawa\u00efenne",
+      "taille": "M",
+      "prix": 9.5,
+      "garnitures": [
+        "tomate",
+        "mozzarella",
+        "jambon",
+        "ananas"
+      ]
+    },
+    {
+      "nom": "V\u00e9g\u00e9tarienne",
+      "taille": "M",
+      "prix": 8.5,
+      "garnitures": [
+        "tomate",
+        "mozzarella",
+        "poivrons",
+        "champignons",
+        "olives"
+      ]
+    },
+    {
+      "nom": "Viande Lovers",
+      "taille": "L",
+      "prix": 11.0,
+      "garnitures": [
+        "tomate",
+        "mozzarella",
+        "pepperoni",
+        "saucisse",
+        "bacon",
+        "jambon"
+      ]
+    },
+    {
+      "nom": "Poulet BBQ",
+      "taille": "L",
+      "prix": 10.5,
+      "garnitures": [
+        "sauce bbq",
+        "mozzarella",
+        "poulet",
+        "oignons"
+      ]
+    },
+    {
+      "nom": "Buffalo Chicken",
+      "taille": "L",
+      "prix": 10.5,
+      "garnitures": [
+        "sauce buffalo",
+        "mozzarella",
+        "poulet",
+        "fromage bleu"
+      ]
+    },
+    {
+      "nom": "Champignon",
+      "taille": "M",
+      "prix": 8.5,
+      "garnitures": [
+        "tomate",
+        "mozzarella",
+        "champignons"
+      ]
+    },
+    {
+      "nom": "Pesto",
+      "taille": "M",
+      "prix": 9.0,
+      "garnitures": [
+        "sauce pesto",
+        "mozzarella",
+        "tomates cerises",
+        "basilic"
+      ]
+    }
+  ]
+}
